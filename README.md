@@ -1,2 +1,0 @@
-# MyRestuarant
-Created with CodeSandbox
